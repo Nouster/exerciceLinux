@@ -1,0 +1,3 @@
+ mkdir -p Work/Linux/exercices
+touch exercice1.txt
+
